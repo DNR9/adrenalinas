@@ -1,0 +1,156 @@
+h1 {
+  font-family: 'Montserrat';
+  text-align: center;
+  font-size: 3.5rem;
+}
+
+p {
+  font-family: 'ubuntu';
+  margin-top: 5%;
+  font-weight: 400;
+  font-stretch: extra-expanded;
+  line-height: 1.5;
+}
+
+
+
+.title-name {
+  color: #fff;
+  font-size: 3.5rem;
+  padding: 0 100px;
+  font-family: 'Montserrat';
+  text-align: right;
+}
+
+.title-team {
+  color: #ec4646;
+  font-family: 3.5rem;
+  font-family: 'ubuntu';
+  font-weight: bold;
+  padding: 0 100px 50px;
+  text-align: right;
+}
+
+.container-fluid {
+  padding: 3% 10% 7%
+}
+
+.navbar {
+  margin: 50px 100px;
+  padding: 10px;
+}
+
+
+.row {
+  margin-top: 4.5rem;
+}
+
+.spark-logo {
+  width: 100%;
+  height: auto;
+}
+
+
+
+.ac-logo {
+  text-align: center;
+}
+
+#Apie-mus {
+  padding: 10% 10% 10%;
+  margin-top: -7px;
+  background-color: #eeeeee;
+  color: #393e46;
+}
+
+#nariai {
+  background-color: #fff;
+  text-align: center;
+  padding: 5% 10% 5%;
+  color: #fff;
+  background-image: url(2.jpg);
+  background-size: cover;
+  padding-top: 3%;
+
+}
+
+
+.text-nariai {
+  font-size: 2.5rem;
+}
+
+.nariai-box {
+    padding: 5%;
+    color: #fff;
+  }
+
+#remejai {
+  color: #393e46;
+  background-color: #eeeeee;
+  font-family: 'Montserrat';
+  font-weight: 600;
+}
+
+.spark-logo {
+  padding: 5% 20% 3%;
+}
+
+.remejai-logo {
+  width: 20%;
+  margin: 20px;
+}
+
+.text-72 {
+  text-align: left;
+  margin-top: 15px;
+}
+
+.social-icon {
+  margin: 20px 30px;
+  font-size: 130%;
+}
+.text-remejai {
+  padding: 5%;
+}
+
+#footer {
+  background-color: #393e46;
+  text-align: center;
+  color: #fff;
+
+}
+
+#image {
+  background-image: url(face.png);
+  background-size: cover;
+  padding-top: 36%;
+}
+
+@media only screen and (max-width: 640px) {
+  #image {
+    background-image: url(facesm.jpg);
+
+    padding-top: 90%;
+  }
+  .title-name {
+    font-size: 2.5rem;
+    padding: 0 40px;
+    text-align: left;
+
+  }
+  .title-team {
+    color: #ec4646;
+    font-size: 2.5rem;
+
+    font-weight: bold;
+    padding: 0 40px 20px;
+    text-align: left;
+}
+
+}
+.text-remejai {
+  font-size: 2.5rem;
+}
+}
+
+/*-- Galerija--*/
